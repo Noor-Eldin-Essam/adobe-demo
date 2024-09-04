@@ -48,4 +48,3 @@ export default function decorate(block) {
     menu.classList.toggle('active');
   });
 }
-
