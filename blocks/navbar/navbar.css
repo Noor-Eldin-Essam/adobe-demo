@@ -48,18 +48,3 @@
   display: block;
 }
 
-@media (max-width: 768px) {
-  .navbar-toggle {
-    display: block;
-  }
-
-  .navbar-menu {
-    display: none;
-    flex-direction: column;
-  }
-
-  .navbar-menu.active {
-    display: flex;
-  }
-}
-
